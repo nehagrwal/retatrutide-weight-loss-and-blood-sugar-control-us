@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/retatrutide-weight-loss-and-blood-sugar-control-us/sitemap.xml
+Sitemap: https://retatrutide-weight-loss-and-blood-sugar-control-us.vercel.app/sitemap-vercel.xml
+Sitemap: https://retatrutide-weight-loss-and-blood-sugar-control-us.pages.dev/sitemap-cloudflare.xml
